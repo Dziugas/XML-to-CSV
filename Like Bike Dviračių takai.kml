@@ -1,0 +1,2481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Dviračių takai</name>
+    <description/>
+    <Style id="line-01579B-6425-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>6.425</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-01579B-6425-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>9.6375</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-01579B-6425">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-01579B-6425-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-01579B-6425-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-01579B-6813-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>6.813</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-01579B-6813-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>10.2195</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-01579B-6813">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-01579B-6813-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-01579B-6813-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-01579B-6813-nodesc-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>6.813</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-01579B-6813-nodesc-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>10.2195</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-01579B-6813-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-01579B-6813-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-01579B-6813-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-01579B-7200-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>7.2</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-01579B-7200-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>10.8</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-01579B-7200">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-01579B-7200-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-01579B-7200-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-01579B-7394-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>7.394</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-01579B-7394-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>11.091</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-01579B-7394">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-01579B-7394-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-01579B-7394-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-817717-5069-normal">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>5.069</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-817717-5069-highlight">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>7.6035</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-817717-5069">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-817717-5069-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-817717-5069-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-817717-5456-normal">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>5.456</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-817717-5456-highlight">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>8.184</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-817717-5456">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-817717-5456-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-817717-5456-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-817717-6231-normal">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>6.231</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-817717-6231-highlight">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>9.3465</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-817717-6231">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-817717-6231-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-817717-6231-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-817717-6813-normal">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>6.813</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-817717-6813-highlight">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>10.2195</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-817717-6813">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-817717-6813-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-817717-6813-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-817717-7588-normal">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>7.588</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-817717-7588-highlight">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>11.382</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-817717-7588">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-817717-7588-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-817717-7588-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-817717-8169-normal">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>8.169</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-817717-8169-highlight">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>12.2535</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-817717-8169">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-817717-8169-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-817717-8169-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-4875-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>4.875</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-4875-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>7.3125</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-4875">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-4875-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-4875-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-5069-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>5.069</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-5069-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>7.6035</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-5069">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-5069-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-5069-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-5263-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>5.263</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-5263-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>7.8945</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-5263">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-5263-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-5263-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-5456-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>5.456</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-5456-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>8.184</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-5456">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-5456-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-5456-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-5650-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>5.65</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-5650-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>8.475</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-5650">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-5650-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-5650-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-5844-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>5.844</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-5844-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>8.766</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-5844">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-5844-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-5844-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-6038-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>6.038</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-6038-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>9.057</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-6038">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-6038-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-6038-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-6231-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>6.231</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-6231-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>9.3465</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-6231">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-6231-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-6231-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-6425-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>6.425</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-6425-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>9.6375</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-6425">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-6425-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-6425-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-6619-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>6.619</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-6619-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>9.9285</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-6619">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-6619-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-6619-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-6813-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>6.813</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-6813-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>10.2195</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-6813">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-6813-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-6813-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-7006-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>7.006</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-7006-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>10.509</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-7006">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-7006-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-7006-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-7200-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>7.2</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-7200-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>10.8</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-7200">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-7200-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-7200-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-7394-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>7.394</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-7394-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>11.091</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-7394">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-7394-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-7394-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-7588-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>7.588</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-7588-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>11.382</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-7588">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-7588-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-7588-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-7781-nodesc-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>7.781</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-FF5252-7781-nodesc-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>11.6715</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-FF5252-7781-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-7781-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-7781-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-8169-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>8.169</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-8169-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>12.2535</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-8169">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-8169-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-8169-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>ESAMI DVIRAČIŲ TAKAI</name>
+      <Placemark>
+        <name>Santakos ir Nemuno krantinės dviračių takas</name>
+        <description>Santakos ir Nemuno krantinės pėsčiųjų ir dviračių takas. 2017 m. planuojamas Nemuno krantinės dviračių tako remontas, t.y. senas betonines plokštes pakeisti vientisu betonu. Taip pat Nemuno krantinės dviračių take numatomas apšvietimas</description>
+        <styleUrl>#line-FF5252-5650</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.8878125,54.900269,0
+            23.8863158,54.8999081,0
+            23.8859081,54.8999791,0
+            23.885479,54.8999945,0
+            23.8839126,54.8997354,0
+            23.8823408,54.8990722,0
+            23.8806617,54.8987884,0
+            23.8789773,54.8986249,0
+            23.8780332,54.8984398,0
+            23.8778669,54.8981314,0
+            23.87887,54.8974157,0
+            23.8825607,54.895392,0
+            23.8838267,54.8948491,0
+            23.8866377,54.8947133,0
+            23.8885689,54.8948121,0
+            23.8911653,54.8947627,0
+            23.8944054,54.8944912,0
+            23.8977528,54.8940346,0
+            23.9012289,54.8939853,0
+            23.9028382,54.894158,0
+            23.9040613,54.8943678,0
+            23.9065289,54.8943925,0
+            23.9084816,54.8943061,0
+            23.9101553,54.8941334,0
+            23.9126658,54.8936768,0
+            23.9140391,54.8932696,0
+            23.9153051,54.8926279,0
+            23.9170647,54.890715,0
+            23.9185023,54.8888391,0
+            23.9206266,54.8868768,0
+            23.9234805,54.8847168,0
+            23.9250469,54.8835565,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Šančių dviračių takas
+</name>
+        <description>Tai vienas iš pirmųjų Kauno miesto dviračių takų, nutiestas 1999 m už Europos sąjungos lėšas.  Rekreacinės paskirties dviračių takas tęsiasi palei Nemuną Šančių seniūnijoje iki Panemunės tilto.  Dviračių tako ilgis 4 km, plotis 2-3 m. Važiuojant šiuo dviračių taku per Panemunės tiltą galima pasiekti Panemunės šilą. 2017 m. planuojamas tako apšvietimas</description>
+        <styleUrl>#line-FF5252-6231</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9258273,54.8830445,0
+            23.9267795,54.8824042,0
+            23.9273306,54.88202,0
+            23.9277477,54.8815926,0
+            23.9285981,54.8809091,0
+            23.9291063,54.8802633,0
+            23.9291607,54.8798409,0
+            23.929333,54.8794278,0
+            23.9294188,54.8788738,0
+            23.9296709,54.8782396,0
+            23.9296792,54.8778397,0
+            23.9294623,54.877483,0
+            23.9293879,54.8766956,0
+            23.9292337,54.8750529,0
+            23.9290888,54.873522,0
+            23.9290566,54.8719633,0
+            23.9291854,54.870494,0
+            23.9295073,54.868469,0
+            23.9299364,54.8667402,0
+            23.9316799,54.8645946,0
+            23.9321895,54.863954,0
+            23.9324845,54.8632022,0
+            23.9326938,54.8627314,0
+            23.9330639,54.8623038,0
+            23.9335843,54.861745,0
+            23.9343407,54.8612911,0
+            23.9355154,54.8608002,0
+            23.9367439,54.8605686,0
+            23.9380904,54.8604667,0
+            23.9395079,54.8605779,0
+            23.9409791,54.8606211,0
+            23.9412399,54.8610163,0
+            23.9418763,54.8610163,0
+            23.9435996,54.860936,0
+            23.9459465,54.8607569,0
+            23.947478,54.8609978,0
+            23.949377,54.86164,0
+            23.9500637,54.8624427,0
+            23.9511366,54.8631714,0
+            23.9516516,54.8633813,0
+            23.9517589,54.863616,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Panemunės šilo dviračių takas
+</name>
+        <description>Rekreacinės paskirties dviračių takas esantis Panemunės šile, kurio ilgis yra apie 5,5 km.Dviračių tako danga – asfaltas. Didžioji dalis dviračių tako nutiesta 2007 m. Esamų tak remontas atliktas 2017 m. Bendras Panemunės dviračių takų ilgis apie 15 km.</description>
+        <styleUrl>#line-FF5252-6425</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.956579,54.8628021,0
+            23.9562719,54.8632201,0
+            23.9561042,54.8636318,0
+            23.9563805,54.8640077,0
+            23.9569759,54.8646051,0
+            23.9602053,54.8671952,0
+            23.9625601,54.8697111,0
+            23.9646363,54.872304,0
+            23.9663315,54.8760635,0
+            23.9682198,54.8773968,0
+            23.9731121,54.8779401,0
+            23.9767599,54.8790263,0
+            23.9792489,54.8800076,0
+            23.9797209,54.8808161,0
+            23.9762234,54.8848649,0
+            23.9770281,54.8859573,0
+            23.9774895,54.8864448,0
+            23.9774037,54.8872902,0
+            23.9750218,54.8883455,0
+            23.9740777,54.8889996,0
+            23.9766312,54.8921589,0
+            23.9751506,54.892887,0
+            23.9723182,54.8932202,0
+            23.969593,54.8931955,0
+            23.9663637,54.8922268,0
+            23.9644164,54.8912797,0
+            23.9630055,54.8902399,0
+            23.9610958,54.8888206,0
+            23.9599156,54.8868644,0
+            23.9597226,54.8845748,0
+            23.9600766,54.8830782,0
+            23.9608705,54.8822373,0
+            23.9614928,54.8818161,0
+            23.9638209,54.8803163,0
+            23.9647651,54.8794877,0
+            23.9654089,54.8783627,0
+            23.9662457,54.8761128,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Užnemunė g. dviračių takas
+</name>
+        <description>Dviračių takas Nemuno krantinėje , kuris Kauno miestą sujungia su Kauno rajonu. Bendras dviračių tako ilgis apie 6 km. Dalis tako įrengta 2016 m. Tai 1,2 km asfaltuoto dviračių tako atkarpa prie Užnemunės g.</description>
+        <styleUrl>#line-FF5252-5069</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.8890678,54.8928962,0
+            23.8872787,54.8931199,0
+            23.8852644,54.8932202,0
+            23.8827378,54.8934331,0
+            23.8815308,54.8936398,0
+            23.8796961,54.8942136,0
+            23.8778669,54.894846,0
+            23.8758445,54.895719,0
+            23.8749754,54.8962928,0
+            23.8736558,54.8971257,0
+            23.87184,54.8983611,0
+            23.8710232,54.8988339,0
+            23.8701206,54.899214,0
+            23.8689137,54.8994146,0
+            23.867712,54.8996367,0
+            23.866151,54.8998433,0
+            23.8653249,54.8999729,0
+            23.8647509,54.8999575,0
+            23.8625489,54.9004642,0
+            23.8613593,54.9006728,0
+            23.8603361,54.900869,0
+            23.8559371,54.9016848,0
+            23.8529062,54.9023048,0
+            23.8513988,54.9025654,0
+            23.8498378,54.9026903,0
+            23.8428962,54.9033473,0
+            23.8406968,54.9038192,0
+            23.8371563,54.9044977,0
+            23.8355684,54.9051762,0
+            23.8343668,54.9051022,0
+            23.8331866,54.9049171,0
+            23.8306546,54.9044237,0
+            23.8294315,54.9040659,0
+            23.8271356,54.9038808,0
+            23.8234019,54.9035354,0
+            23.822093,54.9035231,0
+            23.8179731,54.9041769,0
+            23.8090897,54.9058301,0
+            23.8087249,54.90583,0
+            23.8099909,54.9056821,0
+            23.8135529,54.9049788,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Dviračių takas P. Vileišio tiltas-Raudondvario pl.-Lampėdžiai
+</name>
+        <description>Rajoninės paskirties dviračių takas, skirtas susisiekti miesto gyventojams su rekreacine zona Lampėdžiuose. Dviračių tako ilgis – 5 km, plotis svyruoja nuo 1,2 m iki 2 m. Tako danga – asfaltas. Dviračių takas pradėtas tiesti 2008 m., baigtas įrengti 2010 m.</description>
+        <styleUrl>#line-FF5252-7006</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.8893225,54.9036804,0
+            23.88737,54.9031376,0
+            23.8870159,54.9029714,0
+            23.8866618,54.9028824,0
+            23.8857526,54.902823,0
+            23.8845496,54.9027281,0
+            23.8839266,54.9026722,0
+            23.8833198,54.9026594,0
+            23.8823381,54.9027096,0
+            23.8814637,54.9028276,0
+            23.8782611,54.9032825,0
+            23.8757533,54.9036388,0
+            23.8738998,54.9039148,0
+            23.8732213,54.9040305,0
+            23.8728712,54.9041277,0
+            23.8726875,54.9042371,0
+            23.87243,54.9044237,0
+            23.872312,54.904675,0
+            23.872263,54.9049422,0
+            23.8724126,54.9053852,0
+            23.8726794,54.9061323,0
+            23.8729249,54.9067329,0
+            23.8731435,54.9072842,0
+            23.872025,54.9074647,0
+            23.8708261,54.9076636,0
+            23.8684711,54.9079797,0
+            23.8646061,54.9084832,0
+            23.8626628,54.9087334,0
+            23.8607625,54.9090005,0
+            23.858158,54.909369,0
+            23.8578455,54.9093258,0
+            23.857061,54.9077545,0
+            23.8533488,54.9076759,0
+            23.8496634,54.9076296,0
+            23.8491739,54.907598,0
+            23.8483304,54.9076065,0
+            23.8471395,54.907642,0
+            23.8466419,54.907652,0
+            23.8462811,54.9076898,0
+            23.8451278,54.9078146,0
+            23.8441374,54.9079658,0
+            23.843147,54.9081616,0
+            23.8421754,54.9083806,0
+            23.8412949,54.9086781,0
+            23.8410294,54.9087336,0
+            23.8405828,54.9085795,0
+            23.838366,54.9083836,0
+            23.8374889,54.9083058,0
+            23.8366547,54.9082542,0
+            23.8354853,54.9081655,0
+            23.8343695,54.9081107,0
+            23.8334066,54.9080968,0
+            23.8324289,54.90815,0
+            23.8314673,54.9082957,0
+            23.8306734,54.9084053,0
+            23.8300565,54.9085178,0
+            23.83079,54.9091947,0
+            23.8314914,54.9100382,0
+            23.8322518,54.9108692,0
+            23.8326803,54.9113017,0
+            23.833015,54.911762,0
+            23.8331196,54.9121936,0
+            23.8329989,54.91261,0
+            23.8332637,54.9133099,0
+            23.8337378,54.9140006,0
+            23.8341582,54.9146635,0
+            23.8346216,54.9152401,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Neries krantinės dviračių takas
+</name>
+        <description>Rajoninės ir rekreacinės paskirties dviračių takas (įrengtas 2013-2014 m.), kurio ilgis 5,5 km, plotis 1,5 m – 2,5 m. Dviračių takas prasideda po P. Vileišio tiltu ir tęsiasi Neries krantinės parke, toliau prie Baltų pr. kertantis sankryžą su Jotvingių g. ir toliau tęsiasi iki Kuršių g. 2017 m. planuojamas tako apšvietimas</description>
+        <styleUrl>#line-FF5252-7588</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.8895184,54.9038456,0
+            23.8902614,54.9044193,0
+            23.8909024,54.904902,0
+            23.8912538,54.9054016,0
+            23.8916641,54.9056514,0
+            23.8922569,54.9059567,0
+            23.8929087,54.9061448,0
+            23.893295,54.9062543,0
+            23.8936651,54.9064286,0
+            23.8944107,54.9068449,0
+            23.8946897,54.907235,0
+            23.8950115,54.9074771,0
+            23.895886,54.9079112,0
+            23.8968838,54.9082775,0
+            23.8978621,54.9086942,0
+            23.898701,54.9090538,0
+            23.8998905,54.9092581,0
+            23.9012115,54.9097554,0
+            23.9024547,54.9103436,0
+            23.9028631,54.910561,0
+            23.9032741,54.9107677,0
+            23.9038709,54.910891,0
+            23.9043912,54.9109855,0
+            23.9048043,54.9111724,0
+            23.9053595,54.911574,0
+            23.9056412,54.9118531,0
+            23.9061589,54.9121245,0
+            23.9073068,54.9133733,0
+            23.9077494,54.9143231,0
+            23.9080055,54.9153429,0
+            23.9079532,54.9155518,0
+            23.9081007,54.9171227,0
+            23.9081758,54.9186921,0
+            23.9082349,54.9194598,0
+            23.9082805,54.9198374,0
+            23.9083797,54.9202305,0
+            23.9088142,54.9212356,0
+            23.9090449,54.9217119,0
+            23.9093882,54.9218275,0
+            23.9095169,54.9220495,0
+            23.9096242,54.9224132,0
+            23.9099622,54.9236464,0
+            23.9099287,54.9237504,0
+            23.9096699,54.9238637,0
+            23.9084495,54.9242198,0
+            23.9078433,54.9246729,0
+            23.9068294,54.9251723,0
+            23.9056974,54.9255576,0
+            23.9034766,54.9263283,0
+            23.9014113,54.9270804,0
+            23.8993567,54.9279682,0
+            23.8969052,54.9289823,0
+            23.8943892,54.9300333,0
+            23.8943464,54.9301813,0
+            23.8945609,54.9302183,0
+            23.89602,54.930095,0
+            23.8964868,54.9316453,0
+            23.8969803,54.9331093,0
+            23.8978923,54.9355779,0
+            23.8985783,54.9354997,0
+            23.8992643,54.9353476,0
+            23.9007328,54.9349816,0
+            23.902432,54.9344831,0
+            23.9044476,54.9340154,0
+            23.9056974,54.9336333,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kleboniškio g. dviračių takas
+</name>
+        <description>Rekreacinės paskirties dviračių takas prie Kleboniškio g. 2017 m. atnaujinta asfalto danga (apie 2 km)</description>
+        <styleUrl>#line-FF5252-5844</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9199722,54.9384592,0
+            23.9208412,54.9406039,0
+            23.9230514,54.9436976,0
+            23.9240384,54.945534,0
+            23.9268278,54.9473517,0
+            23.9294457,54.9491571,0
+            23.9333618,54.9511411,0
+            23.936677,54.9528046,0
+            23.9413118,54.9540861,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kleboniškio miško dviračių takas
+</name>
+        <description>Rekreacinės paskirties dviračių takas, kurio ilgis – 2,8 km, plotis 2,5 – 3 m. Dviračių takas nutiestas Kleboniškio miško parke, taku galima nuvažiuoti iki Kauno rajono, Narėpų gyvenvietės.</description>
+        <styleUrl>#line-FF5252-7200</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9596581,54.934946,0
+            23.9597225,54.9354514,0
+            23.9588428,54.9357719,0
+            23.957448,54.9359198,0
+            23.956933,54.9366348,0
+            23.9560962,54.9371525,0
+            23.9551735,54.9373991,0
+            23.954401,54.9374607,0
+            23.9550662,54.9384468,0
+            23.9553452,54.939322,0
+            23.9548087,54.9403328,0
+            23.9537144,54.9409737,0
+            23.9521694,54.9414667,0
+            23.9495945,54.9423788,0
+            23.9492297,54.9424528,0
+            23.9483929,54.9424158,0
+            23.9479637,54.9422679,0
+            23.9474487,54.9415037,0
+            23.9458179,54.9409367,0
+            23.9450669,54.9403821,0
+            23.9445305,54.9397288,0
+            23.9441872,54.9390385,0
+            23.944037,54.9384715,0
+            23.9445305,54.9378675,0
+            23.9462256,54.9374114,0
+            23.9491224,54.9367458,0
+            23.9495945,54.936943,0
+            23.9505601,54.9368937,0
+            23.951633,54.9364992,0
+            23.9535642,54.9361787,0
+            23.955195,54.9358829,0
+            23.9561176,54.9359198,0
+            23.9575982,54.9358705,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kleboniškio dviračių takas
+</name>
+        <description>Tai rekreacinės paskirties dviračių takas, kurio ilgis – 2,2 km, plotis 2,5 – 3 m. Dviračių takas nutiestas Kleboniškio miško parke, taku galima nuvažiuoti iki Kauno rajono, Narėpų gyvenvietės.</description>
+        <styleUrl>#line-FF5252-5844</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9597225,54.9354514,0
+            23.961482,54.9381633,0
+            23.9630914,54.9404683,0
+            23.9669108,54.9428718,0
+            23.9693785,54.9436853,0
+            23.9728332,54.9438701,0
+            23.977468,54.9449424,0
+            23.9803219,54.9454354,0
+            23.9830685,54.9459653,0
+            23.9852786,54.9457065,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Dviračių takas prie Kalniečių parko
+</name>
+        <description>Rekreacinės ir rajoninės paskirties dviračių takas, jungiantis Kalniečių parką su Kleboniškio miško parku Kauno miesto parkus. Bendras dviračių tako ilgis – 1,6 km, plotis – 1,5 – 2,5 m. Dalyje tako vyrauja bendras pėsčiųjų ir dviratininkų eismas. Dalis dviračių tako bus remontuojama  tvarkant Kalniečių parką 2017 m.</description>
+        <styleUrl>#line-FF5252-5844</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9586496,54.9310626,0
+            23.9552593,54.9312228,0
+            23.9552473,54.9309663,0
+            23.9553854,54.9308576,0
+            23.9553505,54.9304431,0
+            23.955152,54.9276351,0
+            23.9550662,54.9265993,0
+            23.9541221,54.9264884,0
+            23.9523196,54.9264514,0
+            23.9523357,54.9262665,0
+            23.9522552,54.9261154,0
+            23.9521694,54.9259582,0
+            23.9519066,54.9259212,0
+            23.9516759,54.9257855,0
+            23.9515901,54.9255636,0
+            23.9517617,54.925354,0
+            23.952148,54.9250303,0
+            23.9523438,54.9247613,0
+            23.9526147,54.9245632,0
+            23.9530599,54.924161,0
+            23.9525342,54.923677,0
+            23.9536715,54.9227645,0
+            23.9546585,54.9220739,0
+            23.9551091,54.9220986,0
+            23.9561713,54.9212724,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Dviračių takas prie Draugystės parko
+</name>
+        <description>Rekreacinės ir rajoninės paskirties dviračių takas, jungiantis tris Kauno miesto parkus. Dviračių tako ilgis – 1,8 km, plotis – 1,5 – 2,5 m. Dalyje tako vyrauja bendras pėsčiųjų ir dviratininkų eismas. Dviračių tako pradžia prie Draugystės parko. Dalyje dviračių tako reikalingas remontas. Numatoma remontuoti 2018 m.</description>
+        <styleUrl>#line-FF5252-6619</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9562088,54.9212385,0
+            23.9568982,54.9215398,0
+            23.9570403,54.9214496,0
+            23.9576894,54.9217255,0
+            23.9587838,54.9209024,0
+            23.9598995,54.9201009,0
+            23.9589608,54.9196507,0
+            23.9607149,54.9184236,0
+            23.9621097,54.9175233,0
+            23.9620882,54.91666,0
+            23.9621741,54.9161667,0
+            23.9625603,54.9159077,0
+            23.9627749,54.915883,0
+            23.9631397,54.9159323,0
+            23.9645076,54.9162747,0
+            23.9654732,54.9167217,0
+            23.9658755,54.9163918,0
+            23.9663449,54.9165876,0
+            23.9667177,54.9167495,0
+            23.9689546,54.9151307,0
+            23.9692162,54.9147044,0
+            23.9692417,54.9143398,0
+            23.969235,54.9140923,0
+            23.9693463,54.9138634,0
+            23.9701456,54.9135335,0
+            23.9704031,54.9132189,0
+            23.9709395,54.9130648,0
+            23.9715135,54.9126176,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Laisvės al. dviračių takas
+</name>
+        <description>Tai dviračių takas prasidedantis prie P. Vileišio tilto. Važiuojant taku galima užsukti į Santakos parką, kuriame sudarytos sąlygos pėstiesiems ir dviratininkams naudotis pėsčiųjų ir dviračių taku.  Šios atkarpos ilgis 2 km.</description>
+        <styleUrl>#line-FF5252-6813</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.8965002,54.8967956,0
+            23.8980666,54.8970794,0
+            23.9003196,54.8979185,0
+            23.9093318,54.8975606,0
+            23.9199105,54.8971288,0
+            23.9205086,54.8970995,0
+            23.920746,54.8970432,0
+            23.9208412,54.8968929,0
+            23.9212623,54.8966969,0
+            23.9217773,54.8967339,0
+            23.9219248,54.8969453,0
+            23.922185,54.8970301,0
+            23.9247546,54.896862,0
+            23.9272919,54.8968203,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Daukanto g. dviračių takas
+</name>
+        <description>Dviračių takas nuo Laisvės al. iki Žalgirio arenos</description>
+        <styleUrl>#line-FF5252-4875</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9135778,54.8973417,0
+            23.9133525,54.8952316,0
+            23.9131808,54.8928808,0
+            23.9137065,54.8926464,0
+            23.9149082,54.8922268,0
+            23.9157879,54.8924427,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Pažaislio dviračių takas
+</name>
+        <description>Rekreacinės paskirties dviračių takas, kurio ilgis apie 2 km, plotis 1,5-2,5 m. Dviračių takas prasideda prie Kauno marių, prasukant pro Pažaislio vienuolyno ansamblį ir toliau tęsiasi prie Kauno marių Pažaislio miško parke iki Kauno jachtklubo. Dviračių takas asfaltuotas, tik dalis tako dangos už Pažaislio vienuolyno žvyrkelis. Planuojamas tako remontas 2018 m.</description>
+        <styleUrl>#line-FF5252-6813</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            24.0155983,54.8763104,0
+            24.0175939,54.876261,0
+            24.0187955,54.8747178,0
+            24.0210056,54.8739523,0
+            24.0236449,54.8737671,0
+            24.0246105,54.8737301,0
+            24.0246105,54.8746066,0
+            24.0243745,54.8758783,0
+            24.0231299,54.8758659,0
+            24.0232801,54.8768659,0
+            24.0241385,54.8773227,0
+            24.0224648,54.8817173,0
+            24.0218639,54.8852969,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ąžuolyno dviračių takas
+</name>
+        <description>Dviračių takas prasideda nuo S. Dariaus ir S. Girėno aikštės ir tęsiasi iki Radvilėnų plento. Tako ilgis apie 1,4 km, plotis 1,5-2,5 m. Tai rekreacinės paskirties dviračių takas, nutiestas miesto miško parke. Šalia tako yra sudarytos sąlygos pailsėti, įrengti suoliukai, treniruokliai.</description>
+        <styleUrl>#line-FF5252-5456</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.932085,54.8989951,0
+            23.9355612,54.8992418,0
+            23.9362049,54.8990938,0
+            23.9400351,54.8993375,0
+            23.9414808,54.8995487,0
+            23.9428193,54.8998402,0
+            23.9450455,54.9006237,0
+            23.9492673,54.9040659,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Dviračių takas po P. Vileišio tiltu
+</name>
+        <description>Naujasis 0,6 km ilgio dviračių takas, sujungia greta Jonavos gatvės ir Santakos parke esančius takus. Dviratininkai ir pėstieji gali išvengti judrios ir pavojingos Kauno pilies žiedinės sankryžos. Įgyvendinus dviračių tako projektą iš dviejų atskirų dviračių ir pėsčiųjų takų buvo suformuotas vienas nepertraukiamas maršrutas, vedantis palei Nemuno ir Neries krantines link Kauno pilies ir Santakos parko. Po P. Vileišio tiltu einantis dviračių takas pradėtas tiesti 2012 metais.</description>
+        <styleUrl>#line-FF5252-6038</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.8878125,54.900269,0
+            23.8878715,54.9005189,0
+            23.8879949,54.9006885,0
+            23.8882632,54.9007595,0
+            23.8890731,54.9009137,0
+            23.8900924,54.9012159,0
+            23.8911438,54.9015737,0
+            23.8926029,54.9022893,0
+            23.8934183,54.9027335,0
+            23.8952369,54.9028136,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Dviračių takas prie R. Kalantos g. ir T. Masiulio</name>
+        <description>Bendras pėsčiųjų ir dviračių takas, kurio ilgis apie 3,5 km, įrengtas 2016 m. rekonstruojant R. Kalantos g. ir T. Masiulio gatves. Dviračių takas 2,5 m pločio, asfaltas. Šiuo dviračių taku galima pasiekti Pažaislio šilą ar net Panemunę</description>
+        <styleUrl>#line-FF5252-6231</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9738202,54.9010062,0
+            23.9742145,54.9009214,0
+            23.9744961,54.9009044,0
+            23.9746759,54.9008412,0
+            23.9753263,54.9005327,0
+            23.9759687,54.9002042,0
+            23.9765668,54.899922,0
+            23.9770549,54.8996366,0
+            23.9776665,54.8990706,0
+            23.9779669,54.8985925,0
+            23.9782164,54.8979702,0
+            23.978616,54.8973494,0
+            23.9789714,54.8970348,0
+            23.9792677,54.8967587,0
+            23.9804332,54.8962497,0
+            23.9815959,54.8957499,0
+            23.9821726,54.8955525,0
+            23.9827466,54.8953735,0
+            23.9838301,54.8950543,0
+            23.9843988,54.8949201,0
+            23.9849352,54.894829,0
+            23.9860323,54.8947118,0
+            23.9870596,54.894664,0
+            23.9880439,54.8945467,0
+            23.9890122,54.8944048,0
+            23.9948273,54.893467,0
+            23.9971179,54.8930721,0
+            23.9991188,54.8926772,0
+            24.0027237,54.8919738,0
+            24.0031529,54.8918319,0
+            24.0033889,54.8915789,0
+            24.0060496,54.8867533,0
+            24.0064922,54.8859603,0
+            24.0067202,54.8860127,0
+            24.006908,54.8856301,0
+            24.0075624,54.88451,0
+            24.0087533,54.8823777,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Dviračių takas prie Pramonės pr. ir Taikos pr.
+</name>
+        <description>Pėsčiųjų ir dviračių takas įrengtas 2016 m. Dalyje tako yra bendras pėsčiųjų eismas, kita dalis atskirti pėsčiųjų ir dviratininkų srautai</description>
+        <styleUrl>#line-FF5252-7394</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9722216,54.9279603,0
+            23.9729847,54.9273931,0
+            23.9743647,54.9264729,0
+            23.9759727,54.9253224,0
+            23.9775619,54.9241409,0
+            23.9781198,54.923731,0
+            23.9785034,54.9233009,0
+            23.9787743,54.9229341,0
+            23.9787354,54.9228324,0
+            23.9786107,54.9227368,0
+            23.9787555,54.9226316,0
+            23.9789272,54.9226374,0
+            23.9791954,54.9226551,0
+            23.9795065,54.9225179,0
+            23.9801502,54.9221972,0
+            23.98103,54.9212446,0
+            23.9819527,54.9203229,0
+            23.9834547,54.9187566,0
+            23.9837243,54.9183643,0
+            23.9837759,54.9181142,0
+            23.9837095,54.9178887,0
+            23.9835928,54.9173992,0
+            23.9834305,54.9169329,0
+            23.9829156,54.9165044,0
+            23.9819757,54.916128,0
+            23.9810332,54.9157563,0
+            23.9791429,54.9150005,0
+            23.9772473,54.914314,0
+            23.9752391,54.9137262,0
+            23.9743875,54.9135127,0
+            23.9739731,54.9135258,0
+            23.9735748,54.9135304,0
+            23.9733616,54.9132883,0
+            23.9715832,54.9125775,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Dviračių takas per HES
+</name>
+        <description>2017 m. įrengtas bendras pėsčiųjų ir dviračių takas per HESą. Šiuo metu įrenginėjami kelio ženklai</description>
+        <styleUrl>#line-FF5252-6038</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            24.0087533,54.8823777,0
+            24.0088981,54.8822049,0
+            24.0092596,54.8819472,0
+            24.0096103,54.881688,0
+            24.0100241,54.8813809,0
+            24.0103976,54.88106,0
+            24.0105298,54.8808833,0
+            24.0107587,54.8807406,0
+            24.0110232,54.8804675,0
+            24.0109031,54.8804027,0
+            24.0111908,54.8801943,0
+            24.0112961,54.8800524,0
+            24.0112666,54.8795555,0
+            24.0110064,54.8792439,0
+            24.0023527,54.8752256,0
+            23.9998798,54.8744154,0
+            23.9974069,54.8735064,0
+            23.9924187,54.8716018,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Jonavos g. dviračių takas
+</name>
+        <description>Rajoninės paskirties dviračių takas, prasidedantis prie P. Vileišio tilto ir tęsiasi prie Jonavos g. ir Neries krantine iki Jonavos gatvės kempingo. Tako ilgis apie 4 km, plotis – 2,5 m. Kadangi dviračių takas nutiestas daugiau kaip prieš 15 m.  2017 m. atnaujinta tako danga</description>
+        <styleUrl>#line-FF5252-7006</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.8952476,54.9028352,0
+            23.8963151,54.9036464,0
+            23.8994908,54.9054846,0
+            23.902688,54.9072364,0
+            23.9048767,54.9083343,0
+            23.9062285,54.9091114,0
+            23.9094043,54.9116031,0
+            23.9106703,54.9130494,0
+            23.9110458,54.913663,0
+            23.9112604,54.9142427,0
+            23.9123332,54.9177638,0
+            23.9133633,54.920998,0
+            23.9143932,54.9249686,0
+            23.9156592,54.9288865,0
+            23.9166006,54.931135,0
+            23.9170164,54.9310704,0
+            23.9187572,54.9354237,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Dviračių takas prie Kovo 11-osios g.
+</name>
+        <description>Bendras pėsčiųjų ir dviračių takas, kurio plotis 2,5 m įrengtas prie Kovo 11-osios g.</description>
+        <styleUrl>#line-FF5252-8169</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9737881,54.9017295,0
+            23.97378,54.9027921,0
+            23.9737652,54.9033234,0
+            23.9737263,54.9038562,0
+            23.9736808,54.9079103,0
+            23.9736164,54.9096495,0
+            23.9736486,54.9113764,0
+            23.9735628,54.9115399,0
+            23.9733375,54.9117033,0
+            23.9723236,54.9116756,0
+            23.9717764,54.9116848,0
+            23.9716852,54.9118282,0
+            23.9716101,54.9120025,0
+            23.9715296,54.9122692,0
+            23.9714974,54.9123756,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Daukanto g. dviračių takas
+</name>
+        <description>Dviračių takas jungiantis Laisvės al. su Vienybės aikšte</description>
+        <styleUrl>#line-FF5252-5650</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9137495,54.8990197,0
+            23.9135671,54.897317,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kleboniškio ir Jonavos takų jungtis
+</name>
+        <description>2,5 pločio dviračių takas, įrengtas 2017 m. Šis dviračių takas sujungia Jonavos g. dviračių taką su Kleboniškio g. dviračių taku</description>
+        <styleUrl>#line-FF5252-6619</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9187813,54.9355007,0
+            23.9185131,54.9355439,0
+            23.9193499,54.937812,0
+            23.9197683,54.9377997,0
+            23.9199722,54.9384592,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Panemunės takas
+</name>
+        <description>2017 m. atliktas tako dangos remontas.</description>
+        <styleUrl>#line-FF5252-5456</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9616966,54.8846551,0
+            23.9746356,54.8885553,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Veiverių g.
+</name>
+        <description>4 km dviračių takas įrengtas 2017 m. Taip pat įrengtas ir dviračių tako apšvietimas.</description>
+        <styleUrl>#line-FF5252-7200</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.8893038,54.8924458,0
+            23.889961,54.8923178,0
+            23.8916695,54.8918566,0
+            23.8930321,54.8911963,0
+            23.8943463,54.8893791,0
+            23.895607,54.888111,0
+            23.8958484,54.8877577,0
+            23.8958645,54.8873118,0
+            23.8956821,54.8867317,0
+            23.894577,54.8839145,0
+            23.8910472,54.8744647,0
+            23.8871098,54.8641111,0
+            23.8857954,54.8604801,0
+            23.8844812,54.8569109,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Panemunės takas
+</name>
+        <description>2017 m. atliktas tako dangos remontas.</description>
+        <styleUrl>#line-FF5252-6231</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.980794,54.8814211,0
+            23.9797209,54.8808161,0
+            23.9804077,54.8802484,0
+            23.9824033,54.8805447,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Panemunės takas
+</name>
+        <description>2017 m. atliktas tako dangos remontas.</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.976953,54.8745819,0
+            23.9785409,54.8782115,0
+            23.9792061,54.8789399,0
+            23.9804506,54.879088,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Lakštingalų al.
+</name>
+        <description>2017 m. atliktas tako dangos remontas.</description>
+        <styleUrl>#line-FF5252-5650</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9637995,54.8895426,0
+            23.9650656,54.8873025,0
+            23.9669323,54.8852969,0
+            23.976953,54.8745819,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Panemunės takas
+</name>
+        <description>2017 m. atliktas tako dangos remontas.</description>
+        <styleUrl>#line-FF5252-5069</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9650226,54.8805076,0
+            23.9727259,54.8829887,0
+            23.979485,54.8850254,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Panemunė aukštutinis takas
+</name>
+        <description>2017 m. atliktas tako dangos remontas.</description>
+        <styleUrl>#line-FF5252-6231</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9663315,54.8760635,0
+            23.9659882,54.8785819,0
+            23.9649582,54.8806064,0
+            23.9638424,54.8820877,0
+            23.9628124,54.8833714,0
+            23.9616966,54.8846551,0
+            23.9614391,54.8864818,0
+            23.9624047,54.8884936,0
+            23.9637995,54.8895426,0
+            23.9653873,54.8902831,0
+            23.9682198,54.8923564,0
+            23.9704514,54.8930474,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Panemunės takas
+</name>
+        <description>2017 m. atliktas tako dangos remontas.</description>
+        <styleUrl>#line-FF5252-6231</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9620829,54.8842107,0
+            23.9643574,54.8841305,0
+            23.9653873,54.8839577,0
+            23.9687347,54.8833097,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Panemunės takas
+</name>
+        <description>2017 m. atliktas tako dangos remontas.</description>
+        <styleUrl>#line-FF5252-7200</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9705372,54.8931832,0
+            23.9699149,54.8920849,0
+            23.9694428,54.891764,0
+            23.9691639,54.8912704,0
+            23.9665461,54.8909001,0
+            23.963542,54.8867163,0
+            23.9626622,54.8850624,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Šiaurės pr.
+</name>
+        <styleUrl>#line-FF5252-7781-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9719051,54.9284935,0
+            23.9697647,54.9300023,0
+            23.9678764,54.9306927,0
+            23.9659023,54.9309147,0
+            23.9586496,54.9310626,0
+            23.9441442,54.9314818,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Panemunės takas
+</name>
+        <description>2017 m. atliktas tako dangos remontas.</description>
+        <styleUrl>#line-FF5252-5456</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9721036,54.8796065,0
+            23.972168,54.8782733,0
+            23.97264,54.8765079,0
+            23.9730906,54.8753721,0
+            23.9728546,54.8745573,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Partizanų g.
+</name>
+        <description>Prie Partizanų g. vienoje pusėje planuojama įrengti atskirus pėsčiųjų ir dviračių takus. Planuojamas dviračių tako apšvietimas. Darbų pradžia 2017 m. liepos mėn.</description>
+        <styleUrl>#line-FF5252-7394</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9424598,54.9120564,0
+            23.947371,54.9143413,0
+            23.9542508,54.9175141,0
+            23.9590091,54.9196554,0
+            23.9653547,54.9225264,0
+            23.9684796,54.9239726,0
+            23.9715457,54.9252754,0
+            23.9798981,54.9290299,0
+            23.9816549,54.9297195,0
+            23.9835781,54.9302288,0
+            23.9853617,54.9304654,0
+            23.9862415,54.9305483,0
+            23.9870945,54.9305818,0
+            23.9887293,54.9305047,0
+            23.9902756,54.9303028,0
+            23.9949989,54.929691,0
+            23.9959498,54.9295007,0
+            23.9968577,54.9292364,0
+            23.9978394,54.928606,0
+            23.9982431,54.9281868,0
+            23.9985395,54.9277676,0
+            23.9986977,54.9271719,0
+            23.9986628,54.9265701,0
+            23.9985743,54.9255266,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Švenčionių g.
+</name>
+        <description>2017 m. įrengtas dviračių takas</description>
+        <styleUrl>#line-FF5252-6619</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9572334,54.881347,0
+            23.9568472,54.882458,0
+            23.9562893,54.8836923,0
+            23.9560533,54.8844082,0
+            23.956182,54.8859881,0
+            23.9562035,54.8869138,0
+            23.9563322,54.8883701,0
+            23.956461,54.8894809,0
+            23.9568472,54.8910359,0
+            23.9573407,54.8913691,0
+            23.9574265,54.8916036,0
+            23.9578342,54.8918751,0
+            23.9579201,54.8923317,0
+            23.9592075,54.8930721,0
+            23.9594007,54.8934793,0
+            23.9600444,54.8936768,0
+            23.9598942,54.8940717,0
+            23.9592505,54.894738,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Raudonojo Kryžiaus g.
+</name>
+        <description>2017 m. įrengtas dviračių takas prie Raudonojo Kryžiaus g.</description>
+        <styleUrl>#line-FF5252-7394</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9885455,54.8717762,0
+            23.9894521,54.8718503,0
+            23.9904928,54.8719398,0
+            23.9912009,54.8720015,0
+            23.9915872,54.8719738,0
+            23.9918447,54.8718966,0
+            23.9920056,54.8717978,0
+            23.9923435,54.8715941,0
+            23.9924187,54.8716018,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2018 m. planai</name>
+      <Placemark>
+        <name>Baltų pr.
+</name>
+        <description>2017 m. rengiamas techninis projektas, kuriame planuojams pėsčiųjų ir dviračių takas prie Baltų g. (nuo 9-o Forto g. iki Jotvingių g.). Toliau dviračių takas bus įrengiamas ant Rasytės g. šlaito ir susijungs su esamu dviračių taku.</description>
+        <styleUrl>#line-01579B-6425</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9056706,54.9336516,0
+            23.9058852,54.9336392,0
+            23.9066792,54.933368,0
+            23.9069796,54.9330968,0
+            23.9043403,54.9304338,0
+            23.9016366,54.927894,0
+            23.9007783,54.927931,0
+            23.8959664,54.9296694,0
+            23.8959986,54.930104,0
+            23.8960228,54.930326,0
+            23.893193,54.9306218,0
+            23.8921952,54.9309516,0
+            23.8910365,54.9313092,0
+            23.8898778,54.9314818,0
+            23.8888586,54.9314185,0
+            23.8854226,54.9301179,0
+            23.8821476,54.9288588,0
+            23.8788378,54.9276566,0
+            23.8775597,54.9272027,0
+            23.8763031,54.9267396,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Dviračių takas prie Savanorių pr.
+</name>
+        <description>Pagal parengtą techninį projektą, dviračių taką prie Savanorių pr. numatyt pradėti įrengti 2017 metų pabaigoje. Darbų pabaiga - 2018 m. Tai 6 km pėsčiųjų ir dviračių takas prasidedantis prie Šv. Gertrūdos g. ir tęsiasi per visą Savanorių pr. iki Kauno rajono ribos.</description>
+        <styleUrl>#line-01579B-6813</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.977055,54.9307004,0
+            23.9760035,54.9301826,0
+            23.9751881,54.9298127,0
+            23.9743084,54.9293689,0
+            23.9735144,54.9290853,0
+            23.9725274,54.9287709,0
+            23.9719051,54.9284935,0
+            23.9711729,54.9280928,0
+            23.9703897,54.9276628,0
+            23.9690163,54.9270633,0
+            23.9676753,54.9264591,0
+            23.9668197,54.9260676,0
+            23.9660928,54.9257393,0
+            23.9654062,54.9254449,0
+            23.9640462,54.9248176,0
+            23.963094,54.9243968,0
+            23.9626676,54.9242272,0
+            23.9618415,54.9238141,0
+            23.9607364,54.9232962,0
+            23.9594865,54.9227213,0
+            23.9576143,54.921872,0
+            23.956866,54.921583,0
+            23.9560291,54.9211938,0
+            23.9535293,54.9200515,0
+            23.9515632,54.9191975,0
+            23.9503012,54.9186055,0
+            23.9490178,54.9180305,0
+            23.9475023,54.9173507,0
+            23.9458099,54.9165691,0
+            23.9441684,54.9158152,0
+            23.9433208,54.9154314,0
+            23.9419529,54.9148193,0
+            23.9404589,54.914198,0
+            23.9390346,54.9135227,0
+            23.937554,54.9128196,0
+            23.9363927,54.9122707,0
+            23.9348504,54.9114998,0
+            23.9336783,54.9109987,0
+            23.9320904,54.9103311,0
+            23.9311409,54.9099132,0
+            23.930339,54.9095756,0
+            23.9285821,54.9088508,0
+            23.9267394,54.9081631,0
+            23.9249476,54.9074784,0
+            23.9239686,54.9071223,0
+            23.9221152,54.906453,0
+            23.9204469,54.9058331,0
+            23.9184862,54.9050975,0
+            23.9171344,54.9046041,0
+            23.9159569,54.9041692,0
+            23.9130253,54.9030928,0
+            23.9117539,54.9026255,0
+            23.9097235,54.901876,0
+            23.9088101,54.9014904,0
+            23.9078673,54.9011064,0
+            23.9070976,54.9007903,0
+            23.9063305,54.900471,0
+            23.9049143,54.8998866,0
+            23.903439,54.8992881,0
+            23.9021033,54.8987066,0
+            23.9003599,54.8980172,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Prancūzų g.- Verkių g.
+</name>
+        <description>2017 -2018 m įrengiamas pėsčiųjų ir dviračių takas. Statybos darbų pabaiga 2018 metų galas</description>
+        <styleUrl>#line-01579B-7394</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9612889,54.8954908,0
+            23.9592505,54.894738,0
+            23.955946,54.8936274,0
+            23.9554739,54.8935534,0
+            23.954401,54.8930474,0
+            23.9543366,54.8889502,0
+            23.9543152,54.8882097,0
+            23.9539933,54.8871977,0
+            23.953135,54.8866176,0
+            23.9517832,54.8858276,0
+            23.951118,54.8850994,0
+            23.9501524,54.883717,0
+            23.9482427,54.8813717,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Veiverių g.
+</name>
+        <styleUrl>#line-01579B-6813-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.8904142,54.8923132,0
+            23.8919377,54.891801,0
+            23.8928175,54.891474,0
+            23.8932252,54.8911902,0
+            23.8941479,54.889845,0
+            23.8945985,54.8892155,0
+            23.8954353,54.8883887,0
+            23.8958645,54.8879629,0
+            23.896004,54.8874877,0
+            23.8959503,54.8870742,0
+            23.8953817,54.8857289,0
+            23.8945234,54.8834886,0
+            23.8937724,54.8814087,0
+            23.8928068,54.8788658,0
+            23.8915837,54.8755141,0
+            23.8903284,54.8721991,0
+            23.8892019,54.8691678,0
+            23.8876462,54.8647039,0
+            23.8871419,54.863716,0
+            23.886348,54.8615918,0
+            23.8845885,54.8568553,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Nemuno krantinė
+</name>
+        <description>Nemuno krantinės remontas, betoninių plokščių keitimas į vientisą betoną ir šviečiančių atitvarų įrengimas</description>
+        <styleUrl>#line-01579B-7200</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.8835478,54.8948738,0
+            23.8862514,54.8947133,0
+            23.8878179,54.8947504,0
+            23.8890409,54.8947627,0
+            23.8907361,54.894738,0
+            23.8919806,54.8946887,0
+            23.8940191,54.8945282,0
+            23.8960361,54.8942444,0
+            23.8977528,54.8940346,0
+            23.8992333,54.8939483,0
+            23.9012289,54.8939853,0
+            23.9026022,54.8941704,0
+            23.9037824,54.8943061,0
+            23.9045978,54.8943431,0
+            23.9060783,54.8943678,0
+            23.9075589,54.8943678,0
+            23.9089537,54.8942568,0
+            23.9101553,54.8941334,0
+            23.9112496,54.8939483,0
+            23.9127517,54.8936027,0
+            23.9137816,54.8933806,0
+            23.9145112,54.8931091,0
+            23.9153051,54.8926279,0
+            23.916142,54.8919615,0
+            23.9170647,54.890715,0
+            23.9182878,54.889123,0
+            23.919425,54.8879505,0
+            23.9213991,54.8862473,0
+            23.9250469,54.8835565,0
+            23.9269996,54.8820506,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Dviračių juostos gatvėje</name>
+      <Placemark>
+        <name>Birštono g.
+</name>
+        <description>Bendras pėsčiųjų ir dviračių takas</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.8963312,54.8966136,0
+            23.8963097,54.8963746,0
+            23.8962239,54.896063,0
+            23.8960603,54.8956681,0
+            23.8959369,54.8954676,0
+            23.8957411,54.8951761,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Nemuno g.
+</name>
+        <description>Dviračių juosta gatvėje</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.8963312,54.8966136,0
+            23.8967979,54.8965334,0
+            23.897742,54.8963391,0
+            23.8986325,54.8960306,0
+            23.8998395,54.8955401,0
+            23.902055,54.8946702,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Nemuno g.
+</name>
+        <description>Dviračių juosta gatvėje</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.896417,54.8966815,0
+            23.8970554,54.8965334,0
+            23.8975918,54.8964131,0
+            23.8982409,54.8962188,0
+            23.8995874,54.895719,0
+            23.9021087,54.8947133,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kanto g.
+</name>
+        <description>Dviračių juosta gatvėje</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9021087,54.8947133,0
+            23.9022589,54.8946702,0
+            23.9024413,54.8946547,0
+            23.9026344,54.8946794,0
+            23.9027739,54.8947504,0
+            23.9029026,54.8948398,0
+            23.9031655,54.8951638,0
+            23.9040452,54.8960615,0
+            23.9041364,54.89608,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kanto g.
+</name>
+        <description>Dviračių juosta gatvėje</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9030609,54.8948352,0
+            23.9032567,54.8950681,0
+            23.904123,54.8960198,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kęstučio g.
+</name>
+        <description>Dviračių juosta gatvėje. Viena kryptis</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9041364,54.89608,0
+            23.9060032,54.8960183,0
+            23.9071673,54.8959843,0
+            23.9086801,54.8959165,0
+            23.9106703,54.8958301,0
+            23.9126712,54.8957468,0
+            23.9143932,54.8956758,0
+            23.916319,54.8955771,0
+            23.9181536,54.8955154,0
+            23.9211953,54.8954105,0
+            23.9227349,54.8953643,0
+            23.92362,54.8953273,0
+            23.9250362,54.8952656,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kęstučio g.
+</name>
+        <description>Dviračių juosta gatvėje. Viena kryptis</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9062071,54.8993714,0
+            23.9082134,54.899211,0
+            23.9106703,54.8991184,0
+            23.9137495,54.8990197,0
+            23.9177728,54.8988593,0
+            23.9214528,54.8986866,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Griunvaldo g.
+</name>
+        <description>Dviračių juosta gatvėje</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.920911,54.8920725,0
+            23.9223003,54.8920293,0
+            23.9248163,54.8919429,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Griunvaldo g.
+</name>
+        <description>Dviračių juosta gatvėje</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9209056,54.8920355,0
+            23.9248216,54.8919121,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Karo ligoninės g.
+</name>
+        <description>Dviračių juosta gatvėje</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9248216,54.8906811,0
+            23.9220268,54.8890119,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Karo ligoninės g.
+</name>
+        <description>Dviračių juosta gatvėje</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9248699,54.8906286,0
+            23.9235288,54.8898326,0
+            23.9219731,54.8889039,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kaunakiemio g.
+</name>
+        <description>Dviračių juosta gatvėje</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9219731,54.8889039,0
+            23.9239419,54.8879752,0
+            23.9246607,54.887642,0
+            23.9257228,54.886599,0
+            23.9261091,54.8860683,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kaunakiemio g.
+</name>
+        <description>Dviračių juosta gatvėje</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9260072,54.8860529,0
+            23.9255673,54.8865775,0
+            23.9247733,54.8874229,0
+            23.9244998,54.8875926,0
+            23.9226651,54.8884812,0
+            23.9218551,54.8888453,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Vytauto pr.
+</name>
+        <description>2018 m. dviračių tako žymėjimas ant Vytauto g. šaligatvio</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9253124,54.8968034,0
+            23.9252105,54.8956126,0
+            23.9251274,54.8944218,0
+            23.9249812,54.8926664,0
+            23.9248484,54.8908817,0
+            23.9251033,54.890641,0
+            23.9255083,54.890435,0
+            23.9252883,54.890371,0
+            23.9281303,54.8886447,0
+            23.9308941,54.886977,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Dviračių takas ant šaligatvio</name>
+      <Placemark>
+        <name>Kaunakiemio g.
+</name>
+        <description>1,5 m pločio dviračių takas ant šaligatvio</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9219624,54.8889965,0
+            23.9205033,54.8896583,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Gedimino g.
+</name>
+        <description>Dviračių takas ant šaligatvio. Šaligatvis bus remontuojamas ir 2 m pločio dviračių takas bus įrengiamas ant šaligatvio</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9204282,54.889683,0
+            23.9205381,54.8898804,0
+            23.9206105,54.890317,0
+            23.9206803,54.8908677,0
+            23.920683,54.8911377,0
+            23.9207232,54.8914138,0
+            23.9207903,54.8920571,0
+            23.9208975,54.8929996,0
+            23.9209566,54.8934053,0
+            23.9209914,54.8936691,0
+            23.9209646,54.8947195,0
+            23.9210799,54.8953859,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Miško g.
+</name>
+        <description>Vienos krypties dviračių takas (1 m plotis) takas ant šaligatvio</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9248484,54.8935781,0
+            23.9210933,54.8936984,0
+            23.9188403,54.8937817,0
+            23.9172095,54.8938434,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Miško g.
+</name>
+        <description>Vienos krypties dviračių takas (1 m plotis) takas ant šaligatvio</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9171988,54.8938002,0
+            23.9196986,54.8937138,0
+            23.9217424,54.8936367,0
+            23.9236039,54.8935719,0
+            23.9248753,54.8935256,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Donelaičio g.
+</name>
+        <description>Vienos krypties dviračių takas (1 m plotis) takas ant šaligatvio</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9066362,54.8994146,0
+            23.9079881,54.899285,0
+            23.9097798,54.899211,0
+            23.9137709,54.8990814,0
+            23.9177728,54.898921,0
+            23.9213777,54.8987606,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kęstučio g.
+</name>
+        <description>Vienos krypties dviračių takas (1 m plotis) takas ant šaligatvio</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.904123,54.8960198,0
+            23.9080524,54.8958795,0
+            23.9133203,54.8956573,0
+            23.9174831,54.8954784,0
+            23.921324,54.8953612,0
+            23.9250469,54.8951884,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Birštono g.
+</name>
+        <description>Bendras pėsčiųjų ir dviračių takas</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.8952529,54.8951144,0
+            23.8955158,54.8953766,0
+            23.8958001,54.895827,0
+            23.8959074,54.8965026,0
+            23.8959932,54.8972306,0
+            23.8960576,54.8978321,0
+            23.8959074,54.898045,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Birštono g.
+</name>
+        <description>Bendras pėsčiųjų ir dviračių takas</description>
+        <styleUrl>#line-FF5252-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.8963366,54.898045,0
+            23.8963848,54.8977488,0
+            23.8963258,54.8971751,0
+            23.8963366,54.8968666,0
+            23.8963848,54.8967432,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Sluoksnis be pavadinimo</name>
+      <Placemark>
+        <name>Baršausko g.
+</name>
+        <description>2017 m. parengtas techninis projektas, kuriame prie Baršausko g., Tunelio g. ir M.K. Čiurlionio g. šaligatvių vietoje numatomi atskiri pėsčiųjų ir dviračių takai.</description>
+        <styleUrl>#line-817717-5456</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9738712,54.901051,0
+            23.9735225,54.9011342,0
+            23.9732301,54.9011712,0
+            23.9689144,54.9010417,0
+            23.9672836,54.9008119,0
+            23.9662497,54.9005343,0
+            23.9652479,54.9001611,0
+            23.9628768,54.8992665,0
+            23.9534005,54.8969206,0
+            23.9518985,54.8963406,0
+            23.9503589,54.8955186,0
+            23.9493665,54.8952424,0
+            23.9485002,54.8951475,0
+            23.9476553,54.8951977,0
+            23.9461264,54.8953273,0
+            23.9453016,54.895355,0
+            23.9444715,54.8951653,0
+            23.9440182,54.89491,0
+            23.9436776,54.8945992,0
+            23.9433383,54.8940462,0
+            23.9430794,54.8941087,0
+            23.9426475,54.8935873,0
+            23.9407352,54.8917732,0
+            23.9391205,54.8907413,0
+            23.9369318,54.8895365,0
+            23.9343381,54.8882066,0
+            23.9323586,54.8876851,0
+            23.9293197,54.8861764,0
+            23.9275977,54.8852907,0
+            23.9270371,54.8853385,0
+            23.9265248,54.8856857,0
+            23.9262486,54.8860066,0
+            23.925806,54.8857644,0
+            23.9238748,54.8853078,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Takas į Santarvės p.
+</name>
+        <description>2017 m. parengtas techninis projektas, kuriame numatytas pėsčiųjų ir dviračių takas nuo Žemaičių pl. iki Santarvės parko.</description>
+        <styleUrl>#line-817717-5069</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.8892447,54.9275672,0
+            23.8806402,54.9245709,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Žemaičių pl.
+</name>
+        <description>2017 m. parengtas techninis projektas, kuriame numatoma šaligatvių vietoje prie Žemaičių pl. ir Grušo g. įrengti atskirus pėsčiųjų ir dviračių takus.</description>
+        <styleUrl>#line-817717-6813</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.8824427,54.9354606,0
+            23.8834512,54.9341878,0
+            23.8845053,54.9335976,0
+            23.8856265,54.9321444,0
+            23.8862219,54.9305879,0
+            23.8865921,54.9302058,0
+            23.8881906,54.9288419,0
+            23.8895505,54.9271341,0
+            23.8904464,54.92655,0
+            23.8917982,54.9247975,0
+            23.8929288,54.9251497,0
+            23.8939548,54.9255296,0
+            23.8947353,54.9260013,0
+            23.8951725,54.9264529,0
+            23.8955775,54.9274147,0
+            23.8957948,54.9282238,0
+            23.8959034,54.928435,0
+            23.8957384,54.9286245,0
+            23.8943624,54.9292526,0
+            23.8942632,54.9292056,0
+            23.8939387,54.9293901,0
+            23.8936839,54.9296425,0
+            23.8931957,54.9301195,0
+            23.8921899,54.9305571,0
+            23.8924366,54.9308668,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Takas nuo Švenčionių g.
+</name>
+        <description>2018 m. projektuojamas dviračių takas</description>
+        <styleUrl>#line-817717-7588</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9572334,54.881347,0
+            23.9583063,54.8792485,0
+            23.9597225,54.8770511,0
+            23.9605808,54.8741128,0
+            23.9600658,54.8719645,0
+            23.9572763,54.8683591,0
+            23.9547014,54.8662105,0
+            23.9522552,54.8644075,0
+            23.9517589,54.863616,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Panerių g.
+</name>
+        <description>2018 m. rengiamas techninis projektas. Planuojamas naujas pėsčiųjų ir dviračių takas prie Panerių g., kuris sujungs esantį dviračių taką Neries krantinėje su Kauno rajonu</description>
+        <styleUrl>#line-817717-8169</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9101231,54.9237264,0
+            23.9113033,54.9271173,0
+            23.9106166,54.9334051,0
+            23.9114427,54.9392173,0
+            23.9112711,54.9394208,0
+            23.9113998,54.9408875,0
+            23.9111423,54.9446036,0
+            23.9128482,54.9472594,0
+            23.9162814,54.9519299,0
+            23.9179443,54.9539138,0
+            23.9199937,54.9557558,0
+            23.9216566,54.9568555,0
+            23.9234268,54.9577333,0
+            23.926667,54.9590023,0
+            23.9300788,54.9600002,0
+            23.9346279,54.9607271,0
+            23.9372242,54.9609365,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tvirtovės-Nuokalnės g.
+</name>
+        <description>2017 m. parengtas techninis projektas, kuriame prie Tvirtovės al. ir Nuokalnės g. šaligatvių vietoje numatomi atskiri pėsčiųjų ir dviračių takai.</description>
+        <styleUrl>#line-817717-6231</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            23.9356819,54.9120811,0
+            23.9314708,54.913094,0
+            23.9296067,54.9130424,0
+            23.9277265,54.9128427,0
+            23.9271451,54.9127406,0
+            23.9262043,54.9126785,0
+            23.9246607,54.9125791,0
+            23.9233504,54.9125922,0
+            23.9220804,54.912704,0
+            23.9209787,54.9128466,0
+            23.919936,54.9131403,0
+            23.9179096,54.9137493,0
+            23.9161045,54.9140392,0
+            23.9142564,54.914181,0
+            23.9129502,54.9135921,0
+            23.9121107,54.9128288,0
+            23.9118679,54.9126014,0
+            23.9115447,54.9124665,0
+            23.9111907,54.9122553,0
+            23.9106541,54.9117542,0
+            23.9099273,54.9113626,0
+            23.9097328,54.9113379,0
+            23.9095544,54.9113842,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

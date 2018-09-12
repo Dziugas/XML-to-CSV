@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Like Bike ambasadų žemėlapis</name>
+    <description/>
+    <Style id="icon-1502-795548-labelson-nodesc">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1517-C2185B-labelson-nodesc">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1522-558B2F-labelson">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1522-558B2F-labelson-nodesc">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1534-880E4F-labelson">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1557-BDBDBD-labelson-nodesc">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1577-C2185B-labelson">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1577-C2185B-labelson-nodesc">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1608-FBC02D-labelson">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1635-FBC02D-labelson-nodesc">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1636-FBC02D-labelson-nodesc">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1643-E65100-labelson-nodesc">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1664-FBC02D-labelson-nodesc">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1709-FBC02D-labelson-nodesc">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1770-9C27B0-labelson-nodesc">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Folder>
+      <name>Sluoksnis be pavadinimo</name>
+      <Placemark>
+        <name>Doda užkandinė</name>
+        <styleUrl>#icon-1577-C2185B-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.9192005,54.905708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kauno m. V. Kudirkos viešoji biblioteka</name>
+        <styleUrl>#icon-1664-FBC02D-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.912957,54.8972473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kauno menininkų namai</name>
+        <styleUrl>#icon-1636-FBC02D-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.912232,54.900987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kauno m. savivaldybės visuomenės sveikatos biuras</name>
+        <styleUrl>#icon-1770-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.9312904999999,54.9063825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kauno miesto savivaldybė</name>
+        <styleUrl>#icon-1770-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.9303167,54.921776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaunas IN</name>
+        <description>Turizmo agentūra</description>
+        <styleUrl>#icon-1608-FBC02D-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            23.8859150999999,54.896884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Romuva, kino teatras</name>
+        <styleUrl>#icon-1635-FBC02D-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.9156009000001,54.8977339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kauno miesto muziejus</name>
+        <styleUrl>#icon-1636-FBC02D-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.8859149,54.896884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Judesys</name>
+        <description>Dviračių parduotuvė.</description>
+        <styleUrl>#icon-1522-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            23.930479,54.9098819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Donut LAB</name>
+        <description>Kavinė</description>
+        <styleUrl>#icon-1577-C2185B-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            23.9139049,54.8981332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Velostreet - Vasare Dviračių parduotuvė Kaune</name>
+        <description>Dviračių parduotuvė.</description>
+        <styleUrl>#icon-1522-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            23.971749,54.901394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OVELO Dviračiai, Remontas</name>
+        <description>Dviračių parduotuvė ir remontas</description>
+        <styleUrl>#icon-1522-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            23.8915131,54.8733155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MB Dviračių Sala</name>
+        <description>Dviračių parduotuvė.</description>
+        <styleUrl>#icon-1522-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            24.012114,54.855784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>rePUBlic No.1</name>
+        <styleUrl>#icon-1517-C2185B-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.9133116,54.8973353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nacionalinis Kauno dramos teatras</name>
+        <styleUrl>#icon-1709-FBC02D-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.9108325,54.897347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Raudonas Dviratis</name>
+        <styleUrl>#icon-1522-558B2F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.8475309,54.91516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gokart track “Kartlandas Kaunas” Drobes 62.</name>
+        <styleUrl>#icon-1502-795548-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.950767,54.869968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Euroatletas</name>
+        <styleUrl>#icon-1522-558B2F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.952437,54.917295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Technologinis Progresas</name>
+        <styleUrl>#icon-1502-795548-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.909858,54.896576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PROSPORT.LT</name>
+        <styleUrl>#icon-1522-558B2F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.9382555,54.9080052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prezidento Valdo Adamkaus biblioteka-muziejus</name>
+        <styleUrl>#icon-1664-FBC02D-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.9135608,54.8985923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Odontologijos klinika Kaune "Dantenė"]]></name>
+        <styleUrl>#icon-1557-BDBDBD-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.971891,54.920503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bar Klimas</name>
+        <styleUrl>#icon-1517-C2185B-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.8877029,54.896591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ROCKNROLLA</name>
+        <styleUrl>#icon-1577-C2185B-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.907744,54.897772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kauno technologijos universitetas</name>
+        <styleUrl>#icon-1770-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.912825,54.898991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lietuvos sveikatos mokslų universitetas</name>
+        <styleUrl>#icon-1770-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.9167513,54.8942492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PLAZA langai</name>
+        <styleUrl>#icon-1502-795548-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.9968888,54.9193179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2½ obuolio</name>
+        <styleUrl>#icon-1517-C2185B-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.8944240000001,54.895662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[A. Kleišmanto firma "du Safyrai"]]></name>
+        <styleUrl>#icon-1636-FBC02D-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.8931731,54.896012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Traška Braška</name>
+        <styleUrl>#icon-1522-558B2F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.887599,54.90422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kauno technologijos universitetas, Elektros ir elektronikos fakultetas</name>
+        <styleUrl>#icon-1770-9C27B0-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.956079,54.905923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tvarkingas dviratis</name>
+        <styleUrl>#icon-1522-558B2F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.949344,54.8701778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UPS Lietuva, Skubios Siuntos UAB</name>
+        <styleUrl>#icon-1502-795548-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.0060777,54.942227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Goode</name>
+        <styleUrl>#icon-1577-C2185B-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.9222228,54.8893204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UAB „Dvirtex“ Raudondvario pl.</name>
+        <description>Dviračių parduotuvė</description>
+        <styleUrl>#icon-1522-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            23.875273,54.906177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Akinių meistras</name>
+        <styleUrl>#icon-1643-E65100-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.9792624,54.9060966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mondelez Lietuva Production</name>
+        <styleUrl>#icon-1502-795548-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.9903019999999,54.9176933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karcher Kaunas</name>
+        <styleUrl>#icon-1502-795548-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.949043,54.9181687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CoffeeLoft.lt</name>
+        <description>Kavos parduotuvė</description>
+        <styleUrl>#icon-1534-880E4F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            23.9496169,54.9176519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mybike</name>
+        <styleUrl>#icon-1522-558B2F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.885893,54.9292869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KUHNE</name>
+        <styleUrl>#icon-1577-C2185B-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.9186669000001,54.9022139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bufetas</name>
+        <styleUrl>#icon-1577-C2185B-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.917963,54.905084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bistro Pietų Stalas</name>
+        <styleUrl>#icon-1577-C2185B-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.9472346,54.9166876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HIGH CARE grožio ir sveikatos centras</name>
+        <styleUrl>#icon-1502-795548-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.9159496,54.8972064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Sluoksnis be pavadinimo</name>
+    </Folder>
+  </Document>
+</kml>
